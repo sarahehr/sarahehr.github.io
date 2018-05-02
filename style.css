@@ -1,0 +1,44 @@
+Body {
+	margin: 0;
+	padding: 50px 50px 50px 50px;
+	text-align: center;
+	font-size: 18px;
+	font-family: sans-serif;
+		
+}
+
+}
+
+
+.header .text {
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+	color:ffffff;
+}
+
+
+.nav {
+	background-color: #ffffff;
+	color: #000000;
+	list-style: none;
+	text-align: center;
+	padding: 20px 0 0 0;
+}
+.nav > li {
+	display: inline-block;
+	padding: 0 25px 0 25px;
+	font-size: 25px;
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.nav > li > a:hover {
+	color: #c1c1c1;	
+}
+
+
+
